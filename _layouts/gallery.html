@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% for gallery in site.data.galleries %}
+  {% if gallery.id == page.galleryid %}
+    <h1>{{ gallery.description }}</h1>
+    <ol>
+    {% for image in gallery.images %}
+      <li>
+        {{ image.text }}<br>
+          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+      </li>
+    {% endfor %}
+    </ol>
+  {% endif %}
+{% endfor %}

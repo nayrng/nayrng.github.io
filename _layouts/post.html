@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--post  content  typeset">
+
+    <h1>{{ page.title }}</h1>
+	
+	<a href="https://github.com/nayrng/{{ page.title }}">https://github.com/nayrng/{{ page.title }}</a>
+    
+    {{ content }}
+	
+	{% for gallery in site.data.galleries %}
+		{% if gallery.id == page.title %}
+			{% for image in gallery.images %}
+				<img src="{{ gallery.imagefolder }}/{{ image.thumb }}" height="300", width="225"/>
+			{% endfor %}
+		{% endif %}
+	{% endfor %}
+
+    {% include nav-share.html %}
+
+    {% include post-comments.html %}
+
+  </article>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}

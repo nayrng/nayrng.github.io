@@ -1,0 +1,38 @@
+- id: EasyLiving
+  description: This is the first gallery
+  imagefolder: ProjectPics/EasyLiving
+  images:
+  - name: device-2019-08-12-235057.png
+    thumb: device-2019-08-12-235057.png
+    text: The first image
+  - name: device-2019-08-12-235225.png
+    thumb: device-2019-08-12-235225.png
+    text: The second image
+  - name: device-2019-08-12-235335.png
+    thumb: device-2019-08-12-235335.png
+    text: The third image
+    
+- id: SecretSantaApp
+  description: This is the second gallery
+  imagefolder: ProjectPics/SecretSantaApp
+  images:
+  - name: device-2019-08-13-121423.png
+    thumb: device-2019-08-13-121423.png
+    text: The first image
+  - name: device-2019-08-13-121512.png
+    thumb: device-2019-08-13-121512.png
+    text: The second image
+  - name: device-2019-08-13-121456.png
+    thumb: device-2019-08-13-121456.png
+    text: The third image
+    
+- id: 49ers-RSS-Reader
+  description: This is the third gallery
+  imagefolder: ProjectPics/49ers-RSS-Reader
+  images:
+  - name: device-2019-08-13-152723.png
+    thumb: device-2019-08-13-152723.png
+    text: The first image
+  - name: device-2019-08-13-152802.png
+    thumb: device-2019-08-13-152802.png
+    text: The second image

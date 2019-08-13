@@ -1,0 +1,75 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "49ers-RSS-Reader",
+        "excerpt": "RSS Reader for viewing official San Francisco 49ers news. All news items are taken from the official San Francisco 49ers RSS feed.\n",
+        "content": "RSS Reader for viewing official San Francisco 49ers news. All news items are taken from the official San Francisco 49ers RSS feed.\n",
+        "url": "/projects/49ers-RSS-Reader"
+      },
+    
+      {
+        "title": "EasyLiving",
+        "excerpt": "Android App for users who live with others. Users can sign up, join groups, create chore lists, inventories, use a message board, and split costs that syncs with all users via Google Firebase Realtime Database.\n\n",
+        "content": "Android App for users who live with others. Users can sign up, join groups, create chore lists, inventories, use a message board, and split costs that syncs with all users via Google Firebase Realtime Database.\n\nWorked in collaboration with Brix Joshua Tanhueco and Chuangbo Tong.\n",
+        "url": "/projects/EasyLiving"
+      },
+    
+      {
+        "title": "SecretSantaApp",
+        "excerpt": "Android App for playing the popular “Secret Santa” game at holiday parties and events. Users can sign up via their Google accounts, create private groups, and enter their gift preferences. Secret Santas can view those preferences and use them to buy their recipient the best gift possible. All data is synced and stored in Google’s Firebase Firestore no-SQL Database.\n",
+        "content": "Android App for playing the popular “Secret Santa” game at holiday parties and events. Users can sign up via their Google accounts, create private groups, and enter their gift preferences. Secret Santas can view those preferences and use them to buy their recipient the best gift possible. All data is synced and stored in Google’s Firebase Firestore no-SQL Database.\n",
+        "url": "/projects/SecretSantaApp"
+      },
+    
+  
+  
+  
+  {
+    "title": "the first gallery page",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/Gallery/"
+  },
+  
+  {
+    "title": "About me",
+    "excerpt": "\n",
+    "content": "I am a rising senior at the University of California, Santa Cruz, and I am expected to graduate in June 2020. I am an excellent programmer who is proficient at data structures and algorithms, critical thinking, and team-work.\n\nFrom my time working at Alameda County writing Government standard code to update thousands of users’ computers, I know how to write clean and thoroughly tested code. I also gained significant technical experience from working on several personal projects; two involving intensive data queries through the NFL database, another collaborating with my fellow students on a comprehensive website and the other creating an Android app from scratch that has to handle lots of data synchronization, among other things. I am also an Eagle Scout, and have extensive leadership experience as a Boy Scouts camp leader. In addition to being a fast learner and great communicator, I take constructive criticism very well and am always open to learning new things.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Contact me",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/contact/"
+  },
+  
+  {
+    "title": "Projects",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/projects/"
+  },
+  
+  {
+    "title": "Home",
+    "excerpt": "\n",
+    "content": "Hi! My name is Ryan Ng.\n\nI look forward to working as a software engineer, and have a huge interest in programming and computer science.\n\nAside from computer science, I enjoy hiking, running, and watching football.\n\nThanks for stopping by my website, and feel free to look around and get in touch with me!\n",
+    "url": "/"
+  }
+  
+]
+

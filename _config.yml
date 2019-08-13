@@ -1,0 +1,59 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://mydomain.com'
+baseurl: ''
+title: 'Ryan Ng'
+# description: 'This is my new website'
+permalink: pretty
+logo: "https://github.com/identicons/nayrng.png"
+
+# Pagination
+# paginate: 5
+# paginate_path: projects/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Projects
+  url: /projects/
+- title: GitHub
+  url: https://github.com/nayrng
+- title: Contact Me
+  url: /contact/  
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Projects
+    output: true
+    description: "My personal projects"
+    feature_text: |
+    feature_image: "https://csnews.com/_flysystem/s3/styles/hero/s3/2019-01/Football%20Field_Hero_012519_0.jpg?itok=a0Y6tduX"
