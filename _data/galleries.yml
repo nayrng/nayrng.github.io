@@ -36,3 +36,14 @@
   - name: device-2019-08-13-152802.png
     thumb: device-2019-08-13-152802.png
     text: The second image
+    
+- id: Barber-Shop
+  description: This is the fourth gallery
+  imagefolder: ProjectPics/Barber-Shop
+  images:
+  - name: Capture.png
+    thumb: Capture.png
+    text: The first image
+  - name: Capture2.png
+    thumb: Capture2.png
+    text: The second image
