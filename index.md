@@ -8,7 +8,7 @@ feature_text: |
 
 Hi! My name is Ryan Ng.
 
-I look forward to working as a software engineer, and have a huge interest in programming and computer science.
+I am currently an aspiring software engineer, and have a huge interest in programming and computer science.
 
 Aside from computer science, I enjoy hiking, running, and watching football.
 
