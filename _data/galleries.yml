@@ -41,9 +41,9 @@
   description: This is the fourth gallery
   imagefolder: ProjectPics/Barber-Shop
   images:
-  - name: Capture.png
-    thumb: Capture.png
+  - name: website_pic_1.PNG
+    thumb: website_pic_1.PNG
     text: The first image
-  - name: Capture2.png
-    thumb: Capture2.png
+  - name: website_pic_2.PNG
+    thumb: website_pic_2.PNG
     text: The second image
