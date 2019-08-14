@@ -17,7 +17,7 @@ layout: default
 	{% for gallery in site.data.galleries %}
 		{% if gallery.id == page.title %}
 			{% for image in gallery.images %}
-				<img src="{{ gallery.imagefolder }}/{{ image.thumb }}" height="300", width="225"/>
+					<img src="{{ gallery.imagefolder }}/{{ image.thumb }}"/>
 			{% endfor %}
 		{% endif %}
 	{% endfor %}
