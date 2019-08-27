@@ -1,8 +1,8 @@
-const version = '20190827021153';
+const version = '20190827164211';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/projects/EasyLiving","/projects/SecretSantaApp","/projects/Barber-Shop","/projects/49ers-RSS-Reader","/Gallery/","/about/","/categories/","/contact/","/projects/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logos/prof-pic.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/projects/EasyLiving","/projects/SecretSantaApp","/projects/Barber-Shop","/projects/49ers-RSS-Reader","/Gallery/","/about/","/categories/","/contact/","/projects/","/","/manifest.json","/resume/","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logos/prof-pic.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
