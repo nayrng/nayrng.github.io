@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Ryan Ng'
 # description: 'This is my new website'
 permalink: pretty
-logo: "https://github.com/identicons/nayrng.png"
+logo: "/assets/logos/prof-pic.png"
 
 # Pagination
 # paginate: 5
