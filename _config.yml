@@ -50,6 +50,9 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+  
+# Google Analytics
+google_analytics: UA-146577403-1
 
 # Collections
 collections:
