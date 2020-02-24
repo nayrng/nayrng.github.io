@@ -8,10 +8,8 @@ feature_text: |
 
 Hi! My name is Ryan Ng.
 
-I am an aspiring software engineer, and have a huge interest in programming and computer science.
+Welcome to my website.
 
-Aside from computer science, I enjoy hiking, running, and watching football.
-
-Thanks for stopping by my website, and feel free to look around and get in touch with me!
+Feel free to look around and get in touch with me!
 
 <br>
