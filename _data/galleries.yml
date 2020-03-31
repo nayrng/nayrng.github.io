@@ -11,7 +11,21 @@
   - name: device-2019-08-12-235335.png
     thumb: device-2019-08-12-235335.png
     text: The third image
-    
+
+- id: FiTrak-Android
+  description: This is the second gallery
+  imagefolder: ProjectPics/FiTrak-Android
+  images:
+  - name: landingpage.png
+    thumb: landingpage.png
+    text: The first image
+  - name: trainer_profile.png
+    thumb: trainer_profile.png
+    text: The second image
+  - name: D876123F-0132-42D0-BB58-3E2EB6759B8F.png
+    thumb: D876123F-0132-42D0-BB58-3E2EB6759B8F.png
+    text: The third image
+  
 - id: SecretSantaApp
   description: This is the second gallery
   imagefolder: ProjectPics/SecretSantaApp

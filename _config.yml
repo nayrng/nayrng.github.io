@@ -61,4 +61,4 @@ collections:
     output: true
     description: "My personal projects"
     feature_text: |
-    feature_image: "https://csnews.com/_flysystem/s3/styles/hero/s3/2019-01/Football%20Field_Hero_012519_0.jpg?itok=a0Y6tduX"
+    feature_image: "/assets/headers/projects_header.png"
