@@ -32,10 +32,12 @@
 
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
 
-    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
-
-    {% include site-before-start.html %}
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+	{% include site-analytics.html %}
 	{% include analytics.html %}
+	{% endif %}
+    {% include site-before-start.html %}
+	
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
