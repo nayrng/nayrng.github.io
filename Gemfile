@@ -11,3 +11,5 @@ gem "jekyll-feed", "~> 0.9"
 gem "jemoji", "~> 0.9"
 gem "jekyll-remote-theme", "~> 0.3"
 gem 'jekyll-analytics'
+gem "rubyzip", ">= 1.3.0"
+gem "nokogiri", ">= 1.10.8"
