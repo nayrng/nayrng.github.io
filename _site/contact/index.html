@@ -17,7 +17,7 @@
 <meta property="og:url" content="http://localhost:4000/contact/" />
 <meta property="og:site_name" content="Ryan Ng" />
 <script type="application/ld+json">
-{"@type":"WebPage","url":"http://localhost:4000/contact/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/logos/prof-pic.png"}},"headline":"Contact me","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/contact/","headline":"Contact me","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/logos/prof-pic.png"}},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -30,8 +30,8 @@
     
 
     
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Overwrite this file with code you want before the closing head tag -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146577403-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -39,19 +39,8 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-146577403-1');
-  gtag('config', 'UA-146577403-1', {
-    'anonymize_ip': true
-  });
 </script>
 
-
-    <!-- Overwrite this file with code you want before the closing head tag -->
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-146577403-1', 'auto');
-ga('send', 'pageview');
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
   </head>
@@ -182,7 +171,7 @@ ga('send', 'pageview');
 
 
 
-  <div class="feature" style="background-image: url(https://picsum.photos/1300/400?image=989)">
+  <div class="feature" style="background-image: url(/assets/headers/contact_banner.png)">
     <div class="container  typeset">
       
 
@@ -203,7 +192,7 @@ ga('send', 'pageview');
       <h1>Contact me</h1>
 
 
-		<form method="POST" action="https://formspree.io/ra1113ng@gmail.com">
+		<form method="POST" action="https://formspree.io/mdolnlwq">
 			<input type="email" name="email" placeholder="Your email">
 			<textarea name="message" placeholder="Your Message"></textarea>
 			<button type="submit">Send Email</button>
