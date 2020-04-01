@@ -18,6 +18,12 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-remote-theme
+- jekyll-analytics
+
+jekyll-analytics:
+  GoogleAnalytics:
+    id: UA-146577403-1
+    anonymizeIp: false
 
 # Site settings
 url: 'https://mydomain.com'
